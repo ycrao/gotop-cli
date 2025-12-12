@@ -23,6 +23,8 @@ A terminal tool to show price of gold, silver, forex...
 
 ### Screenshots
 
-![](./screenshot-1.png)
+![screenshot-UbuntuLinux](./screenshot-1.png)
 
-![](./screenshot-2.png)
+![screenshot-Windows](./screenshot-2.png)
+
+![screenshot-macOS](./screenshot-3.png)
