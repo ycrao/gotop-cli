@@ -3,7 +3,7 @@ gotop-cli
 
 A terminal tool to show price of gold, silver, forex...
 
-### Usage
+## Usage
 
 ```bash
 # platform sina, symbol: xau|xag|autd|agtd|xaucny|xagcny|usdidx
@@ -47,8 +47,7 @@ curl -fsSL https://raw.githubusercontent.com/ycrao/gotop-cli/main/install.sh | b
    sudo cp */gotop /usr/local/bin/
    ```
 
-
-### Screenshots
+## Screenshots
 
 ![screenshot-UbuntuLinux](./screenshot-1.png)
 
