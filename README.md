@@ -21,6 +21,33 @@ A terminal tool to show price of gold, silver, forex...
 ./gotop -p icbc
 ```
 
+## Installation
+
+### Quick Install (Recommended)
+
+**One-line install for Linux/macOS:**
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/ycrao/gotop-cli/main/install.sh | bash
+```
+
+### Manual Install
+
+1. Download the appropriate file from [Releases](https://github.com/ycrao/gotop-cli/releases/latest):
+
+   - Linux: `gotop-linux-*.tar.gz`
+   - macOS (Intel): `gotop-mac-*.tar.gz`
+   - macOS (ARM64): `gotop-mac-arm64-*.tar.gz`
+   - Windows: `gotop-windows-*.zip`
+
+2. Extract and install:
+
+   ```bash
+   tar -xzf gotop-*.tar.gz
+   sudo cp */gotop /usr/local/bin/
+   ```
+
+
 ### Screenshots
 
 ![screenshot-UbuntuLinux](./screenshot-1.png)
