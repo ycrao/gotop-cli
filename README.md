@@ -24,3 +24,5 @@ A terminal tool to show price of gold, silver, forex...
 ### Screenshots
 
 ![](./screenshot-1.png)
+
+![](./screenshot-2.png)
