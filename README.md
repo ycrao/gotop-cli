@@ -3,6 +3,8 @@ gotop-cli
 
 A terminal tool to show price of gold, silver, forex...
 
+### Usage
+
 ```bash
 # platform sina, symbol: xau|xag|autd|agtd|xaucny|xagcny|usdidx
 ./gotop -p sina -s xau
@@ -18,3 +20,7 @@ A terminal tool to show price of gold, silver, forex...
 # platform icbc, symbol: icbc-au [工行积存金]
 ./gotop -p icbc
 ```
+
+### Screenshots
+
+![](./screenshot-1.png)
