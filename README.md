@@ -3,6 +3,11 @@ gotop-cli
 
 A terminal tool to show price of gold, silver, forex...
 
+## ChangeLog
+
+- v1.0.1: First version release
+- v1.0.2: Fix CMB gold price has a comma when price >= 1000 cny/g
+
 ## Usage
 
 ```bash
